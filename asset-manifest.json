@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DorotaHeczko/goit-react-hw-01-components/static/css/main.d56822c2.css",
+    "main.js": "/DorotaHeczko/goit-react-hw-01-components/static/js/main.87e2e893.js",
+    "index.html": "/DorotaHeczko/goit-react-hw-01-components/index.html",
+    "main.d56822c2.css.map": "/DorotaHeczko/goit-react-hw-01-components/static/css/main.d56822c2.css.map",
+    "main.87e2e893.js.map": "/DorotaHeczko/goit-react-hw-01-components/static/js/main.87e2e893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56822c2.css",
+    "static/js/main.87e2e893.js"
+  ]
+}
