@@ -1,0 +1,21 @@
+.transactionHistory {
+  width: 500px;
+  margin: auto;
+  margin-bottom: 50px;
+  box-shadow: -3px 3px 59px -18px rgba(125, 196, 220, 1);
+}
+
+.title {
+  background-color: #78ced9;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 26px;
+
+}
+
+.elem {
+  width: 150px;
+}
+
+.transactionHistory tbody tr:nth-child(even) {
+  background-color: rgba(227, 226, 212, 0.392);
+}

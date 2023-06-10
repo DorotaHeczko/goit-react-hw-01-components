@@ -34,12 +34,12 @@ export const Profile = ({ username, tag, location, avatar, stats }) => {
     )
 }
 
+const { string, object } = PropTypes;
+
 Profile.propTypes = {
-  username: PropTypes.string,
-  tag: PropTypes.string,
-  location: PropTypes.string,
-  avatar: PropTypes.string,
-  stats: PropTypes.object,
+  username: string,
+  tag: string,
+  location: string,
+  avatar: string,
+  stats: object,
 };
-
-

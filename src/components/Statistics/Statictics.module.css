@@ -1,0 +1,35 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: #fff;
+  margin: auto;
+  margin-bottom: 40px;
+  box-shadow: -24px 0px 52px 12px rgba(211, 213, 237, 1);
+}
+
+.title {
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  padding: 6px;
+  margin-bottom: 30px;
+}
+
+.label {
+  font-size: 10px;
+  font-style: italic;
+}
+
+.statList {
+  display: flex;
+}
