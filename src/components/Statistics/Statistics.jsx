@@ -15,6 +15,7 @@ export const Statistics = ({ title, stats }) => (
               backgroundColor: randomColor(),
             }}
           >
+
             <span className={css.label}>{e.label}</span>
             <span className={css.percentage}>{e.percentage}%</span>
           </li>
@@ -23,6 +24,7 @@ export const Statistics = ({ title, stats }) => (
     </ul>
   </section>
 );
+
 
 function randomColor() {
   return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
